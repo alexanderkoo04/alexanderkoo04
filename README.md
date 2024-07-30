@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Koo</h1>
-<h3 align="center">Programmer @CSUF with interests in AI, SWE, and Competitive Programming</h3>
+<h3 align="center">I like solving problems :)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/594923063947034626/1151604126824812634/messagif.gif">
 
 <h3 align="left">Connect with me:</h3>
